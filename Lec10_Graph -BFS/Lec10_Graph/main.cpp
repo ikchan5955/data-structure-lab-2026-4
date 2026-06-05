@@ -31,4 +31,10 @@ int main()
     g.display(fp);
     fclose(fp);
     */
+
+    WGraph wg;
+    wg.load("../graph.txt");
+    wg.display();
+
+    return 0;
 }

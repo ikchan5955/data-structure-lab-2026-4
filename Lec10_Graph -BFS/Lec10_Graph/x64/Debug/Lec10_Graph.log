@@ -1,2 +1,21 @@
 ﻿  main.cpp
-  Lec10_Graph.vcxproj -> C:\Users\USER\Documents\data-structure-lab-2026-4 1\Lec10_Graph\x64\Debug\Lec10_Graph.exe
+C:\Users\USER\Documents\data-structure-lab-2026-4 -최신\data-structure-lab-2026-4\Lec10_Graph -BFS\Lec10_Graph\AdjMatGraph.h(133,30): warning C4477: 'fscanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Users\USER\Documents\data-structure-lab-2026-4 -최신\data-structure-lab-2026-4\Lec10_Graph -BFS\Lec10_Graph\AdjMatGraph.h(133,30):
+  이 인수는 버퍼 크기로 사용됩니다.
+  
+C:\Users\USER\Documents\data-structure-lab-2026-4 -최신\data-structure-lab-2026-4\Lec10_Graph -BFS\Lec10_Graph\AdjMatGraph.h(137,21): error C2660: 'AdjMatGraph::insertEdge': 함수는 3개의 인수를 사용하지 않습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Users\USER\Documents\data-structure-lab-2026-4 -최신\data-structure-lab-2026-4\Lec10_Graph -BFS\Lec10_Graph\AdjMatGraph.h(33,10):
+  'AdjMatGraph::insertEdge' 선언을 참조하십시오.
+  C:\Users\USER\Documents\data-structure-lab-2026-4 -최신\data-structure-lab-2026-4\Lec10_Graph -BFS\Lec10_Graph\AdjMatGraph.h(137,21):
+  인수 목록 '(int, int, int)'을(를) 일치시키는 동안
+  
+C:\Users\USER\Documents\data-structure-lab-2026-4 -최신\data-structure-lab-2026-4\Lec10_Graph -BFS\Lec10_Graph\AdjMatGraph.h(136,21): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\data-structure-lab-2026-4 -최신\data-structure-lab-2026-4\Lec10_Graph -BFS\Lec10_Graph\main.cpp(35,5): error C2065: 'WGraph': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data-structure-lab-2026-4 -최신\data-structure-lab-2026-4\Lec10_Graph -BFS\Lec10_Graph\main.cpp(35,12): error C2146: 구문 오류: ';'이(가) 'wg' 식별자 앞에 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2026-4 -최신\data-structure-lab-2026-4\Lec10_Graph -BFS\Lec10_Graph\main.cpp(35,12): error C2065: 'wg': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data-structure-lab-2026-4 -최신\data-structure-lab-2026-4\Lec10_Graph -BFS\Lec10_Graph\main.cpp(36,5): error C2065: 'wg': 선언되지 않은 식별자입니다.
+C:\Users\USER\Documents\data-structure-lab-2026-4 -최신\data-structure-lab-2026-4\Lec10_Graph -BFS\Lec10_Graph\main.cpp(37,5): error C2065: 'wg': 선언되지 않은 식별자입니다.
