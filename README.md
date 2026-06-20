@@ -8,17 +8,7 @@
 
 ---
 
-## 1. 필수 조건 충족 여부
 
-| 필수 조건 | 충족 |
-|---|---|
-| Qt 라이브러리를 활용한 GUI 프로그램 | O (QMainWindow, QWidget, QPainter 등) |
-| 다루는 데이터가 그래프 자료구조로 저장 | O (인접 리스트 `adjacency list`) |
-| C/C++ 로 구현 | O (C++17) |
-
-서버는 구현하지 않고, 고정된 데이터를 코드에 직접 입력하여 사용합니다.
-
----
 
 ## 2. 데이터(그래프) 설계
 
@@ -42,25 +32,9 @@
 
 ## 5. 빌드 & 실행 방법
 
-### 방법 A. 수업 웹 IDE (가장 간단)
+### 방법 수업 웹 IDE 
 `자료구조 실습실` 웹 페이지에 `main.cpp` 와 `header.h` 를 올리고 실행합니다.
-환경이 단일 파일만 받는 경우 `FriendRecommend_single.cpp` 하나만 사용하세요.
 
-### 방법 B. Qt Creator
-`FriendRecommend.pro` 를 열고 빌드/실행(▶) 합니다.
-
-### 방법 C. CMake (터미널)
-```bash
-cmake -S . -B build
-cmake --build build
-./build/FriendRecommend     # Windows: build\FriendRecommend.exe
-```
-
-### 방법 D. Visual Studio
-Qt VS Tools 확장에서 `.pro` 또는 CMake 로 열어 빌드합니다.
-한글이 깨지면 컴파일 옵션에 `/utf-8` 을 추가하세요. (CMake 에는 이미 포함됨)
-
-> 참고: 노드 이름이 한글이므로 한글 폰트가 필요합니다(대부분의 환경에 기본 설치되어 있음).
 
 ---
 
