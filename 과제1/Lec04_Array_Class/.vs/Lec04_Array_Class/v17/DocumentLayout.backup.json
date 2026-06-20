@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\default.BOOK-GF9SQD1Q87\\Documents\\data-structure-lab-2026-3\\Lec04_Array_Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4803E82-425C-4667-B6A2-C825683EB96A}|Complex_Class\\Complex_Class.vcxproj|C:\\Users\\default.BOOK-GF9SQD1Q87\\Documents\\data-structure-lab-2026-3\\Lec04_Array_Class\\Lec04_Array_Class\\ComplexTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4803E82-425C-4667-B6A2-C825683EB96A}|Complex_Class\\Complex_Class.vcxproj|solutionrelative:Lec04_Array_Class\\ComplexTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C36752-AE30-49DF-9286-5CADC3770927}|Lec04_Array_Class\\Lec04_Array_Class.vcxproj|C:\\Users\\default.BOOK-GF9SQD1Q87\\Documents\\data-structure-lab-2026-3\\Lec04_Array_Class\\Lec04_Array_Class\\ImageTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70C36752-AE30-49DF-9286-5CADC3770927}|Lec04_Array_Class\\Lec04_Array_Class.vcxproj|solutionrelative:Lec04_Array_Class\\ImageTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4803E82-425C-4667-B6A2-C825683EB96A}|Complex_Class\\Complex_Class.vcxproj|C:\\Users\\default.BOOK-GF9SQD1Q87\\Documents\\data-structure-lab-2026-3\\Lec04_Array_Class\\Lec04_Array_Class\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4803E82-425C-4667-B6A2-C825683EB96A}|Complex_Class\\Complex_Class.vcxproj|solutionrelative:Lec04_Array_Class\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageTest.cpp",
+              "DocumentMoniker": "C:\\Users\\default.BOOK-GF9SQD1Q87\\Documents\\data-structure-lab-2026-3\\Lec04_Array_Class\\Lec04_Array_Class\\ImageTest.cpp",
+              "RelativeDocumentMoniker": "Lec04_Array_Class\\ImageTest.cpp",
+              "ToolTip": "C:\\Users\\default.BOOK-GF9SQD1Q87\\Documents\\data-structure-lab-2026-3\\Lec04_Array_Class\\Lec04_Array_Class\\ImageTest.cpp",
+              "RelativeToolTip": "Lec04_Array_Class\\ImageTest.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-02T06:01:49.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Complex.h",
+              "DocumentMoniker": "C:\\Users\\default.BOOK-GF9SQD1Q87\\Documents\\data-structure-lab-2026-3\\Lec04_Array_Class\\Lec04_Array_Class\\Complex.h",
+              "RelativeDocumentMoniker": "Lec04_Array_Class\\Complex.h",
+              "ToolTip": "C:\\Users\\default.BOOK-GF9SQD1Q87\\Documents\\data-structure-lab-2026-3\\Lec04_Array_Class\\Lec04_Array_Class\\Complex.h",
+              "RelativeToolTip": "Lec04_Array_Class\\Complex.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-02T06:01:23.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComplexTest.cpp",
+              "DocumentMoniker": "C:\\Users\\default.BOOK-GF9SQD1Q87\\Documents\\data-structure-lab-2026-3\\Lec04_Array_Class\\Lec04_Array_Class\\ComplexTest.cpp",
+              "RelativeDocumentMoniker": "Lec04_Array_Class\\ComplexTest.cpp",
+              "ToolTip": "C:\\Users\\default.BOOK-GF9SQD1Q87\\Documents\\data-structure-lab-2026-3\\Lec04_Array_Class\\Lec04_Array_Class\\ComplexTest.cpp*",
+              "RelativeToolTip": "Lec04_Array_Class\\ComplexTest.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-02T06:01:24.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
